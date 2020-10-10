@@ -1,2 +1,2 @@
 # CestaCafeManha
-Exemplo de Padrão de Desenvolvimento - Composite
+Exemplo de Padrão de Projeto - Composite
